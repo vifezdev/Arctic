@@ -1,0 +1,185 @@
+DEFAULT-RANK: User
+RANKS:
+  Owner:
+    DISPLAY-NAME: "&4Owner"
+    PREFIX: "&7[&4Owner&7] &4"
+    SUFFIX: ''
+    COLOR: "&4"
+    WEIGHT: 120
+    DURABILITY: 14
+    PERMISSIONS:
+      - '*'
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: true
+    ADMIN: true
+  Developer:
+    DISPLAY-NAME: '&bDeveloper'
+    PREFIX: '&7[&bDeveloper&7] &b'
+    SUFFIX: ''
+    COLOR: '&b'
+    WEIGHT: 110
+    DURABILITY: 3
+    PERMISSIONS:
+      - '*'
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: true
+    ADMIN: true
+  Manager:
+    DISPLAY-NAME: '&4Manager'
+    PREFIX: '&7[&4Manager&7] &4'
+    SUFFIX: ''
+    COLOR: '&4'
+    WEIGHT: 100
+    DURABILITY: 14
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: true
+    ADMIN: true
+  Admin:
+    DISPLAY-NAME: '&cAdmin'
+    PREFIX: '&7[&cAdmin&7] &c'
+    SUFFIX: ''
+    COLOR: '&c'
+    WEIGHT: 90
+    DURABILITY: 14
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: true
+    ADMIN: true
+  Mod:
+    DISPLAY-NAME: '&3Mod'
+    PREFIX: '&7[&3Mod&7] &3'
+    SUFFIX: ''
+    COLOR: '&3'
+    WEIGHT: 80
+    DURABILITY: 9
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: true
+    ADMIN: false
+  Builder:
+    DISPLAY-NAME: '&2Builder'
+    PREFIX: '&7[&2Builder&7] &2'
+    SUFFIX: ''
+    COLOR: '&2'
+    WEIGHT: 75
+    DURABILITY: 13
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: false
+    ADMIN: false
+  Partner:
+    DISPLAY-NAME: '&dPartner'
+    PREFIX: '&7[&dPartner&7] &d'
+    SUFFIX: ''
+    COLOR: '&d'
+    WEIGHT: 70
+    DURABILITY: 6
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: false
+    ADMIN: false
+  Media:
+    DISPLAY-NAME: "&dMedia"
+    PREFIX: "&7[&dMedia&7] &d"
+    SUFFIX: ''
+    COLOR: "&d"
+    WEIGHT: 60
+    DURABILITY: 6
+    PERMISSIONS:
+      - breeze.disguise
+    INHERITANCES: []
+    DISGUISABLE: false
+    STAFF: false
+    ADMIN: false
+  King:
+    DISPLAY-NAME: "&6King"
+    PREFIX: '&7[&bKing&7] &b'
+    SUFFIX: ''
+    COLOR: "&6"
+    WEIGHT: 50
+    DURABILITY: 1
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  Epic:
+    DISPLAY-NAME: '&2Epic'
+    PREFIX: '&7[&2Epic&7] &2'
+    SUFFIX: ''
+    COLOR: '&2'
+    WEIGHT: 40
+    DURABILITY: 13
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  Legend:
+    DISPLAY-NAME: "&bLegend"
+    PREFIX: '&7[&bLegend&7] &b'
+    SUFFIX: ''
+    COLOR: "&b"
+    WEIGHT: 30
+    DURABILITY: 3
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  Master:
+    DISPLAY-NAME: '&eMaster'
+    PREFIX: '&7[&eMaster&7] &e'
+    SUFFIX: ''
+    COLOR: '&e'
+    WEIGHT: 20
+    DURABILITY: 4
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  Basic:
+    DISPLAY-NAME: '&7Basic'
+    PREFIX: '&7[Basic] '
+    SUFFIX: ''
+    COLOR: '&a'
+    WEIGHT: 10
+    DURABILITY: 8
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  Pink:
+    DISPLAY-NAME: '&dPink Name'
+    PREFIX: '&d'
+    SUFFIX: ''
+    COLOR: '&d'
+    WEIGHT: 1
+    DURABILITY: 6
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false
+  User:
+    DISPLAY-NAME: "&aUser"
+    PREFIX: '&a'
+    SUFFIX: ''
+    COLOR: '&a'
+    WEIGHT: 0
+    DURABILITY: 5
+    PERMISSIONS: []
+    INHERITANCES: []
+    DISGUISABLE: true
+    STAFF: false
+    ADMIN: false

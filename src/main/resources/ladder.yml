@@ -1,0 +1,6 @@
+ladder:
+  - "ipban {player} 1d Misconduct -s"
+  - "ipban {player} 7d Misconduct -s"
+  - "ipban {player} 30d Misconduct -s "
+
+

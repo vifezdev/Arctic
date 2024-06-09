@@ -1,0 +1,122 @@
+MONGO:
+  URI:
+    ENABLED: false
+    CONNECTION-STRING: "mongodb://localhost:27017/<arctic>"
+  DEFAULT:
+    HOST: "localhost"
+    PORT: 27017
+    DATABASE: "Arctic"
+    AUTHENTICATION:
+      ENABLED: false
+      USERNAME: ""
+      PASSWORD: ""
+
+REDIS:
+  HOST: "127.0.0.1"
+  PORT: 6379
+  CHANNEL: "Arctic"
+  USERNAME: 'USERNAME-HERE'
+  PASSWORD: 'PASS-HERE'
+
+DEFAULT-RANK:
+  NAME: "Default"
+  PREFIX: ""
+  SUFFIX: ""
+  COLOR: "&a"
+  WEIGHT: 0
+  DURABILITY: 0
+
+STAFF:
+  JOIN: "&9[Staff] &7[{server}] &r{staff} &fhas joined the server"
+  SWITCH: "&9[Staff] &7[{server}] &r{staff} &fhas joined {to} from &b{from}"
+  LEAVE: "&9[Staff] &7[{server}] &r{staff} &fhas left the server (from {server})."
+  REQUEST:
+    COOL-DOWN: 120 #seconds
+    MESSAGE: "&9[Request] &7[{server}] &r{profile} &fhas requested for:\n         &b{reason}"
+  REPORT:
+    COOL-DOWN: 120 #seconds
+    MESSAGE: "&9[Report] &7[{server}] &r{profile} &fhas reported &r{target} &ffor:\n          &c{reason}"
+
+CHAT-FORMAT:
+  STAFF: "&9[Staff] &7[{server}] &r{staff}&7: &f{message}"
+  DEFAULT: "{profile}&7: &f{message}"
+
+DISGUISE:
+  SKINS:
+    - "Vifez"
+    - "Notch"
+    - "ZIBLACKINGGG"
+    - "G0"
+    - "XXXTentacion"
+    - "Burj"
+    - "onien"
+    - "cbbg"
+    - "Marcel"
+    - "NotMuted"
+    - "MeeZoid"
+    - "Tiuny"
+    - "Gamerboy80"
+    - "LeftShark"
+    - "Pikachubutler"
+    - "AverageWalrus"
+    - "MURICA"
+    - "blowenthal3"
+    - "wtfchewy"
+    - "Clouke"
+    - "skyreal08"
+    - "unstabler"
+    - "stoken"
+    - "0hVanny"
+    - "Clouddii"
+    - "Defensible"
+    - "W0RRIES"
+    - "0000000000000016"
+    - "0hNotDez_"
+    - "112halo"
+    - "16pm_"
+    - "aeme"
+    - "Analeptic"
+    - "Asoler_"
+    - "Ayked"
+    - "BasketbaIIPIayer"
+    - "Batataxz"
+    - "bkvln"
+    - "BlagoWhite"
+    - "BreZeLmanN1"
+    - "bruskki"
+    - "BunjeePanda"
+    - "ChargedPine09"
+    - "Chaxtey"
+    - "choofed"
+    - "collowen"
+    - "D34THG1RPP"
+    - "darkxfylo"
+    - "Naromia"
+    - "0hFangs"
+    - "ConsumeChild"
+    - "Nacooh"
+    - "SeMeSko"
+    - "wetdrops"
+    - "Lazulilaska"
+    - "Jedeveron"
+    - "unmon"
+    - "hmm"
+    - "Sorer"
+    - "aluwux"
+    - "Macintoshing"
+    - "PurpleCatEyes"
+    - "cahtee"
+    - "fwie"
+    - "SANDSTORM_48"
+    - "iiShqrk"
+    - "1i1l"
+    - "Leogamerpro01"
+    - "RichDino10"
+    - "Tajeks"
+    - "Hoopp1"
+    - "Noiryn"
+    - "Kaxshw"
+    - "Leaver_"
+    - "Just_Soda"
+    - "twizz__"
+    - "TinyJed"

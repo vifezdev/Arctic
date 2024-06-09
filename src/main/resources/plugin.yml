@@ -1,0 +1,4 @@
+name: Arctic
+version: 1.0-SNAPSHOT
+main: lol.pots.core.Arctic
+authors: [ Vifez ]

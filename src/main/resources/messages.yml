@@ -1,0 +1,46 @@
+ERROR-MESSAGES:
+  IN-GAME-COMMAND-ONLY: "&cOnly in-game players can execute this command."
+  PROFILE-NOT-FOUND: "&cCouldn't resolve that player's name."
+  RANK-NOT-FOUND: "&cCouldn't resolve that rank's name."
+  PREFIX-NOT-FOUND: "&cCouldn't resolve that prefix's name."
+
+PUNISHMENTS:
+  CONTEXT: "&r{target} &ahas been {context} &aby {issuer}&a."
+  SILENT-CONTEXT: "&7[Silent] &r{target} &ahas been {context} &aby &r{issuer}&a"
+  BLACKLIST: "&cYou have been blacklisted from Zique\n\nReason: {reason}\n\n&cYou cannot appeal this punishment"
+  IP-BAN: "&cYou have been ip banned from Zique\n\nReason: {reason}\n&cRemaining: {duration}\n\n&cYou can appeal your punishment at discord.Zique.lol"
+  BAN: "&cYou have been banned from Zique\n\nReason: {reason}\n&cRemaining: {duration}\n\n&cYou can appeal your punishment at discord.Zique.lol"
+  KICK: "&cYou have been kicked from Zique\n\nReason: &c{reason}"
+  MUTE: "&cYou've been muted by &r{issuer} &cfor &c{duration}&c.\nReason: &c{reason}&c."
+  WARN: "&cYou've been warned by &r{issuer}&c.\nReason: &c{reason}&c."
+
+FILTER:
+  SELF_FILTER: "&cYour message has been filtered."
+
+VANISH:
+  SELF_VANISH: "&aYou have been vanished."
+  SELF_UNVANISH: "&aYou have been unvanished."
+  OTHER_VANISH: "{profile}&b has vanished."
+  OTHER_UNVANISH: "{profile}&b has unvanished."
+
+FROZEN:
+  staff-freeze-message: "&b{player} &ahas been frozen."
+  staff-unfreeze-message: "&b{player} &ahas been unfrozen."
+  freeze-message:
+    - '&8&m-------------------------------------'
+    - '   &7(&4&lWARNING!&7)     &7(&4&lWARNING!&7)'
+    - ''
+    - '&c&lYou''re currently frozen!'
+    - '&cJoin our teamspeak&7: &4<teamspeak>'
+    - ''
+    - '   &7(&4&lWARNING!)     &7(&4&lWARNING!&7)'
+    - '&8&m-------------------------------------'
+
+PING:
+  SELF: "&aYour ping is &b{ping}&fms"
+  OTHER: "&b{player}&f's current ping is &b{ping}&fms"
+
+FRIEND:
+  PREFIX: "&a[Friend]"
+  JOIN: " &f{player} has &ajoined &fthe server!"
+  LEAVE: " &f{player} has &cleft &fthe server!"

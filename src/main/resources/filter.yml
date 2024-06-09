@@ -1,0 +1,6 @@
+ENABLED: true
+FILTERED_WORDS:
+  - "supercalifragilisticexpialidocious"
+
+WHITELISTED_LINKS:
+  - "youtube.com"
