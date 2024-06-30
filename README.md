@@ -22,3 +22,29 @@ By using this source code you automatically agree to the following terms below:
 
   # Why open source this project?
   I open sourced this project as no body uses it so I'd rather have it just out there instead of collecting dust on my PC.
+
+# Features
+  - Ranks
+  - Grants
+  - MongoDB
+  - Notes
+  - Friends
+  - 100% configurable
+  - Disguises (Requires NickAPI)
+  - Chat filter
+  - Freeze system
+  - Request system
+  - Report system
+  - History system
+  - Punishments
+  - NameMC system
+  - Redis support
+  - Vanish system
+  - Tags system
+  - Profiles
+  - Staff chat
+  - Ignore users
+  - Alts system
+  - Sudo
+  - Webhooks
+  - Silent punishments 
