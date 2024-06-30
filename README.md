@@ -48,3 +48,8 @@ By using this source code you automatically agree to the following terms below:
   - Sudo
   - Webhooks
   - Silent punishments 
+
+# Dependencies
+  - MongoDB
+  - Redis
+  - NickAPI (optional but required if you would like disguises to work correctly)
